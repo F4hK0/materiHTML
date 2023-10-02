@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style></style>
+        <title>UKM IT</title>
+    </head>
+    <body>
+        <h1>UKM IT</h1>
+        <p>Wadah <span id="clickMe">aktivitas</span> kemahasiswaan <em>untuk</em> melakukan<br>pengembangan <strong>rekayasa</strong> teknologi <small>khususnya</small> dalam <mark>bidang</mark> IT.</p>
+        <p>Wadah <sub>aktivitas</sub> kemahasiswaan <sup>untuk</sup> melakukan <del>pengembangan</del> rekayasa <ins>teknologi</ins> khususnya dalam bidang IT.</p>
+        <button>click me</button>
+        <a href="htpps://google.com/">UKM IT</a>
+        <hr>
+        <img src="image.jpg">
+        <figcaption>ukm</figcaption> 
+        <audio src="link target"></audio>
+        <video src="link target"></video>
+        <ul>
+            <li>item 1</li>
+            <li>item 2</li>
+            <li>item 3</li>
+        </ul>
+        <ol>
+            <li>item 1</li>
+            <li>item 2</li>
+            <li>item 3</li>
+        </ol>
+        <div class="menu">
+
+        </div>
+        <table>
+            <tr>item 1</tr>
+            <td>item 2</td>
+        </table>
+        <footer>
+
+        </footer>
+    </body>
+    <script>
+
+    </script>
+</html>
